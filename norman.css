@@ -1,0 +1,18 @@
+#main{
+    text-align: center;
+    background-color:rgb(220, 220, 220);
+    
+}
+#tribute-info{
+    text-align: start;
+    margin: 150px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#title{
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+#image{
+    background-color: linen;
+    
+}
